@@ -1,2 +1,2 @@
-FlasK==1.1.2
+FlasK==2.2.5
 gunicorn==19.9.0
